@@ -66,16 +66,16 @@ gradle clean test
 > <code>BROWSER_SIZE</code> – размер окна браузера, в котором будут выполняться тесты .
 
 ###  Удаленный запуск (в Jenkins):
-1. Открыть <a target="_blank" href="https://jenkins.autotests.cloud/job/dkolesnikova_hh/">проект</a>
+1. Открыть <a target="_blank" href="https://jenkins.autotests.cloud/job/dkolesnikova_final_api/">проект</a>
 
-![This is an image](/images/screens/Jenkins1.png)
+![This is an image](images/screens/Jenkins1.png)
 
 2. Выбрать пункт **Собрать с параметрами**
 3. В случае необходимости изменить параметры, выбрав значения из выпадающих списков
 4. Нажать **Собрать**
 5. Результат запуска сборки можно посмотреть в отчёте Allure
 
-![This is an image](/images/screens/Jenkins2.png)
+![This is an image](images/screens/Jenkins2.png)
 
 ## <img src="images/logo/Allure.svg" width="25" height="25"  alt="Allure"/></a> Отчет в <a target="_blank" href="https://jenkins.autotests.cloud/job/dkolesnikova_hh/2/allure/#">Allure report</a>
 
@@ -118,6 +118,6 @@ gradle clean test
 ## <img src="images/logo/Telegram.svg" width="25" height="25"  alt="Allure"/></a> Уведомление в Telegram о результатах прогона тестов
 
 <p align="center">
-<img title="Allure Overview Dashboard" src="images/screens/telegramNotif.png" >
+<img title="Allure Overview Dashboard" src="images/screens/telegram2.png" >
 </p>
 
